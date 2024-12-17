@@ -1,6 +1,6 @@
 
 export default {
-  logo: <span>🎬Seent</span>,
+  logo: <span>🎬 Seent</span>,
   project: {
     link: 'https://github.com/killedgier/seent'
   },
