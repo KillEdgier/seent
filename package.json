@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.2.1",
     "next": "^13.5.7",
     "next.js": "^1.0.3",
     "nextra": "^2.13.4",

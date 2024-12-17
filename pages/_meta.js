@@ -13,6 +13,9 @@ export default {
     title: 'Seent Some Oscars',
     type: 'page',
   },
+  index: {
+    display: 'hidden',
+  },
   letterboxd: {
     title: 'Letterboxd',
     type: 'menu',
