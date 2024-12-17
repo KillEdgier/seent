@@ -1,6 +1,5 @@
 export default {
 
-
   history: {
     title: 'Hall of Records',
     type: 'page',
