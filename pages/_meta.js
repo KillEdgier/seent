@@ -1,12 +1,9 @@
-import { type } from "os";
-
 export default {
+
+
   history: {
     title: 'Hall of Records',
     type: 'page',
-  },
-  index: {
-    display: 'hidden'
   },
   ideas: {
     title: 'Future Seents',
