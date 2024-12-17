@@ -1,4 +1,3 @@
-
 export default {
   logo: <span>🎬 Seent</span>,
   project: {

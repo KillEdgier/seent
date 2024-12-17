@@ -1,6 +1,5 @@
 export default {
 
-
   history: {
     title: 'Hall of Records',
     type: 'page',
@@ -12,6 +11,9 @@ export default {
   oscars: {
     title: 'Seent Some Oscars',
     type: 'page',
+  },
+  index: {
+    display: 'hidden',
   },
   letterboxd: {
     title: 'Letterboxd',
